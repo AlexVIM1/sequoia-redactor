@@ -1,9 +1,14 @@
-# sequoia
+# Sequoia
 Sequoia Redactor v1.2<br />
 Made with Qt 5.14.1<br />
-bin files<br />
+Supporting on GNU/Linux<br />
+Bin files<br />
 
-# redactor
+# Program
+Binary files are located in "bin/"<br />
+Main executable file is "bin/SequoiaRedactor"<br />
+
+# Redactor
 Upper field must contain path to file<br />
 Lower field intended for text<br />
 
