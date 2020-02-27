@@ -2,7 +2,7 @@
 Sequoia Redactor v1.2<br />
 Made with Qt 5.14.1<br />
 Supporting on GNU/Linux<br />
-Bin files<br />
+Binary files<br />
 
 # Program
 Binary files are located in "bin/"<br />
