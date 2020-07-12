@@ -1,6 +1,6 @@
 # Sequoia
 Sequoia Redactor v1.5-2<br />
-Made with Qt 5.14.2<br />
+Made with Qt 5.15.0<br />
 Supporting on GNU/Linux<br />
 Source files
 
