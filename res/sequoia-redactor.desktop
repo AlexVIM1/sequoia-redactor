@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.5-4
+Type=Application
+Terminal=false
+Exec=/usr/bin/SequoiaRedactor
+Name=Sequoia Redactor
+GenericName=Text Editor
+Comment=Simple and comfortable redactor
+Icon=/usr/share/pixmaps/sequoia-redactor.png
